@@ -9,7 +9,7 @@ pipeline {
             stages {
                     stage('echo') {
                                 steps {
-                                    echo 'hello from the trigger and maik waigant'
+                                    echo 'hello from the trigger and maik'
                                 }
                     }
                     //stage('after') {
